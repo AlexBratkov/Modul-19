@@ -1,4 +1,4 @@
-valid_email = "sanches1305@inbox.ru"
+valid_email = "metax1305@gmail.com"
 valid_password = "1305"
 
 invalid_email = "13rus.com"
